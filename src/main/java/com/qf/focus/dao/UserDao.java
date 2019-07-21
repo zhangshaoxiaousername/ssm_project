@@ -10,4 +10,6 @@ public interface UserDao {
 
     String sx();
 
+    String sx2();
+
 }
